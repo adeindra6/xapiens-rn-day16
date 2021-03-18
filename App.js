@@ -79,7 +79,7 @@ const App = () => {
             name="Posts"
             component={PostsScreen}
             options={{
-              title: 'Profile',
+              title: 'Posts',
               headerStyle: {
                 backgroundColor: '#5db075',
               },
